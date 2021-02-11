@@ -1,0 +1,12 @@
+com\test\Exception\DemoTestException.class
+com\test\repository\DemoTestRepository.class
+com\test\BO\DemoWithdrawBO.class
+com\test\entity\DemoTestEntity.class
+com\test\service\CrudServiceI.class
+com\test\serviceImpl\CrudServiceImpl.class
+com\test\CrudAppApplication.class
+com\test\controller\CrudController.class
+com\test\BO\DemoTest.class
+com\test\config\SwaggerConfig.class
+com\test\Dao\CrudRepositoryDao.class
+com\test\Exception\GlobalExceptionHandler.class

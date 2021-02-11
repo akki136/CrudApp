@@ -1,0 +1,1 @@
+java -jar target\CrudApp-0.0.1.jar

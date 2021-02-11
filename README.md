@@ -6,9 +6,7 @@ How to Run
 Prequisite :-
 
 jdk/jre 1.8.201 should be installed
-
-
-1)GO to target folder double click on runcrud.bat .
-2)once runcrud.bat started please hit url given below :-
+1) double click on CrudRun.bat .
+2)once CrudRun.bat started please hit url given below :-
 http://localhost:8989/crud/swagger-ui.html
 

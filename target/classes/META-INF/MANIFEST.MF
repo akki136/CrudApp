@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+Built-By: akki1
+Build-Jdk: 15.0.1
+Class-Path: ./CommonLibrary/spring-boot-starter-1.5.4.RELEASE.jar ./Comm
+ onLibrary/spring-boot-1.5.4.RELEASE.jar ./CommonLibrary/spring-context-
+ 4.3.9.RELEASE.jar ./CommonLibrary/spring-boot-autoconfigure-1.5.4.RELEA
+ SE.jar ./CommonLibrary/spring-boot-starter-logging-1.5.4.RELEASE.jar ./
+ CommonLibrary/logback-classic-1.1.11.jar ./CommonLibrary/logback-core-1
+ .1.11.jar ./CommonLibrary/log4j-over-slf4j-1.7.25.jar ./CommonLibrary/s
+ pring-core-4.3.9.RELEASE.jar ./CommonLibrary/snakeyaml-1.17.jar ./Commo
+ nLibrary/h2-1.4.195.jar ./CommonLibrary/guava-30.1-jre.jar ./CommonLibr
+ ary/failureaccess-1.0.1.jar ./CommonLibrary/listenablefuture-9999.0-emp
+ ty-to-avoid-conflict-with-guava.jar ./CommonLibrary/jsr305-3.0.2.jar ./
+ CommonLibrary/checker-qual-3.5.0.jar ./CommonLibrary/error_prone_annota
+ tions-2.3.4.jar ./CommonLibrary/j2objc-annotations-1.3.jar ./CommonLibr
+ ary/spring-boot-starter-validation-1.5.4.RELEASE.jar ./CommonLibrary/to
+ mcat-embed-el-8.5.15.jar ./CommonLibrary/hibernate-validator-5.3.5.Fina
+ l.jar ./CommonLibrary/validation-api-1.1.0.Final.jar ./CommonLibrary/jb
+ oss-logging-3.3.1.Final.jar ./CommonLibrary/jaxb-api-2.3.1.jar ./Common
+ Library/javax.activation-api-1.2.0.jar ./CommonLibrary/spring-boot-star
+ ter-data-jpa-1.5.4.RELEASE.jar ./CommonLibrary/spring-boot-starter-aop-
+ 1.5.4.RELEASE.jar ./CommonLibrary/spring-aop-4.3.9.RELEASE.jar ./Common
+ Library/aspectjweaver-1.8.10.jar ./CommonLibrary/spring-boot-starter-jd
+ bc-1.5.4.RELEASE.jar ./CommonLibrary/tomcat-jdbc-8.5.15.jar ./CommonLib
+ rary/tomcat-juli-8.5.15.jar ./CommonLibrary/spring-jdbc-4.3.9.RELEASE.j
+ ar ./CommonLibrary/hibernate-core-5.0.12.Final.jar ./CommonLibrary/hibe
+ rnate-jpa-2.1-api-1.0.0.Final.jar ./CommonLibrary/javassist-3.21.0-GA.j
+ ar ./CommonLibrary/antlr-2.7.7.jar ./CommonLibrary/jandex-2.0.0.Final.j
+ ar ./CommonLibrary/dom4j-1.6.1.jar ./CommonLibrary/hibernate-commons-an
+ notations-5.0.1.Final.jar ./CommonLibrary/hibernate-entitymanager-5.0.1
+ 2.Final.jar ./CommonLibrary/javax.transaction-api-1.2.jar ./CommonLibra
+ ry/spring-data-jpa-1.11.4.RELEASE.jar ./CommonLibrary/spring-data-commo
+ ns-1.13.4.RELEASE.jar ./CommonLibrary/spring-orm-4.3.9.RELEASE.jar ./Co
+ mmonLibrary/spring-tx-4.3.9.RELEASE.jar ./CommonLibrary/spring-beans-4.
+ 3.9.RELEASE.jar ./CommonLibrary/spring-aspects-4.3.9.RELEASE.jar ./Comm
+ onLibrary/spring-boot-starter-log4j2-1.5.4.RELEASE.jar ./CommonLibrary/
+ log4j-slf4j-impl-2.7.jar ./CommonLibrary/log4j-api-2.7.jar ./CommonLibr
+ ary/log4j-core-2.7.jar ./CommonLibrary/jcl-over-slf4j-1.7.25.jar ./Comm
+ onLibrary/jul-to-slf4j-1.7.25.jar ./CommonLibrary/springfox-swagger2-2.
+ 6.1.jar ./CommonLibrary/swagger-annotations-1.5.10.jar ./CommonLibrary/
+ swagger-models-1.5.10.jar ./CommonLibrary/springfox-spi-2.6.1.jar ./Com
+ monLibrary/springfox-core-2.6.1.jar ./CommonLibrary/springfox-schema-2.
+ 6.1.jar ./CommonLibrary/springfox-swagger-common-2.6.1.jar ./CommonLibr
+ ary/springfox-spring-web-2.6.1.jar ./CommonLibrary/classmate-1.3.3.jar 
+ ./CommonLibrary/slf4j-api-1.7.25.jar ./CommonLibrary/spring-plugin-core
+ -1.2.0.RELEASE.jar ./CommonLibrary/spring-plugin-metadata-1.2.0.RELEASE
+ .jar ./CommonLibrary/mapstruct-1.0.0.Final.jar ./CommonLibrary/springfo
+ x-swagger-ui-2.6.1.jar ./CommonLibrary/spring-boot-starter-web-1.5.4.RE
+ LEASE.jar ./CommonLibrary/spring-boot-starter-tomcat-1.5.4.RELEASE.jar 
+ ./CommonLibrary/tomcat-embed-core-8.5.15.jar ./CommonLibrary/tomcat-emb
+ ed-websocket-8.5.15.jar ./CommonLibrary/jackson-databind-2.8.8.jar ./Co
+ mmonLibrary/jackson-core-2.8.8.jar ./CommonLibrary/spring-web-4.3.9.REL
+ EASE.jar ./CommonLibrary/spring-webmvc-4.3.9.RELEASE.jar ./CommonLibrar
+ y/spring-expression-4.3.9.RELEASE.jar ./CommonLibrary/spring-boot-start
+ er-actuator-1.5.4.RELEASE.jar ./CommonLibrary/spring-boot-actuator-1.5.
+ 4.RELEASE.jar ./CommonLibrary/spring-boot-starter-data-rest-1.5.4.RELEA
+ SE.jar ./CommonLibrary/jackson-annotations-2.8.0.jar ./CommonLibrary/sp
+ ring-data-rest-webmvc-2.6.4.RELEASE.jar ./CommonLibrary/spring-data-res
+ t-core-2.6.4.RELEASE.jar ./CommonLibrary/spring-hateoas-0.23.0.RELEASE.
+ jar ./CommonLibrary/evo-inflector-1.2.2.jar
+Specification-Title: CrudApp
+Specification-Version: 0.0
+Specification-Vendor: Pivotal Software, Inc.
+Implementation-Title: CrudApp
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.test
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/CrudApp/
+Main-Class: com.test.CrudAppApplication
+Created-By: Maven Integration for Eclipse
+
